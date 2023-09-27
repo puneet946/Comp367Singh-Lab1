@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyCoreAppCop367SinghLab1.props" />
+</Project>

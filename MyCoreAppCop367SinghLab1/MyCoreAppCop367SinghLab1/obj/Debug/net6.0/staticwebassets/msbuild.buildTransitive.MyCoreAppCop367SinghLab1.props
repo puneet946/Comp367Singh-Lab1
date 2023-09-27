@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MyCoreAppCop367SinghLab1.props" />
+</Project>

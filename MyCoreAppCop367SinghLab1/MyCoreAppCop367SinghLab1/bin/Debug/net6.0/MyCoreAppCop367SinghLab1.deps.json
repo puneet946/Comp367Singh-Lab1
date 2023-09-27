@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyCoreAppCop367SinghLab1/1.0.0": {
+        "runtime": {
+          "MyCoreAppCop367SinghLab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyCoreAppCop367SinghLab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
